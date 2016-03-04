@@ -4,7 +4,7 @@
  *  File: a2.cpp
  *  Created: Feb 11, 2015
  *
- *  Author: Jaroslaw Zola <jzola@buffalo.edu>
+ *  
  */
 
 #include <iostream>
